@@ -8,4 +8,5 @@ Namespace My
     ' The SettingsSaving event is raised before the setting values are saved.
     Partial Friend NotInheritable Class MySettings
     End Class
+    ' Taha - this is a test.
 End Namespace
